@@ -18,6 +18,8 @@ Use Numpy to manipulate the information contatined in the dataframe.
 
 Load the updated dataframe to CSV file.
 
+
+
 For this lab, we will be using the following libraries:
 
 pandas for managing the data
