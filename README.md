@@ -10,16 +10,16 @@ URL: https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/Li
 
 After completing this lab you will be able to:
 
-Use Webscraping to extract required information from a website.
+  Use Webscraping to extract required information from a website.
 
-Use Pandas to load and process the tabular data as a dataframe.
+  Use Pandas to load and process the tabular data as a dataframe.
 
-Use Numpy to manipulate the information contatined in the dataframe.
+  Use Numpy to manipulate the information contatined in the dataframe.
 
-Load the updated dataframe to CSV file.
+  Load the updated dataframe to CSV file.
 
 For this lab, we will be using the following libraries:
 
-pandas for managing the data.
+  pandas for managing the data
 
-numpy for mathematical operations.
+  numpy for mathematical operations
