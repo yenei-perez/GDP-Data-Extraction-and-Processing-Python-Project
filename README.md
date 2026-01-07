@@ -7,3 +7,10 @@ An international firm that is looking to expand its business in different countr
 The required data seems to be available on the URL mentioned below:
 
 URL: https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29
+
+After completing this lab you will be able to:
+
+Use Webscraping to extract required information from a website.
+Use Pandas to load and process the tabular data as a dataframe.
+Use Numpy to manipulate the information contatined in the dataframe.
+Load the updated dataframe to CSV file.
